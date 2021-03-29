@@ -1,2 +1,2 @@
-# Hello_world
-juste pour coder
+#Pratique
+juste pour coder en python
